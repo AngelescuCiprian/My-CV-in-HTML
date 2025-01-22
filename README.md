@@ -1,2 +1,2 @@
 # My-CV-in-HTML
-I made a quick cv
+When I finished high school, I made a short CV to practice my skills in html and css. Hope you like it!
