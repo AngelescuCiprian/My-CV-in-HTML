@@ -1,0 +1,202 @@
+/* Our app */
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color:  #fff;
+}
+
+/* Sidebars Styles */
+
+.sidebar-section{
+    background-color: #DFEEFF;
+}
+.sidebar-image{
+    margin-top: 45px;
+}
+.contacts-container{
+    padding-left: 40px;
+}
+.contacts-header{
+   
+ font-weight: 700;
+ font-size: 22px;
+ color: #161d2a;
+}
+.contacts-items{
+ font-weight: 700;
+ font-size: 14px;
+ line-height: 171%;
+ color: #161d2a;
+}
+.contacts-phone{
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 171%;
+ color: #4489ff;
+ text-decoration: none;
+ margin-left: 10px;
+}
+.contacts-email{
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #4489ff;
+  margin-left: 10px;
+}
+.contacts-element{
+    margin-top: -12px;
+}
+.tech-skills-section{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+.tech-skills-header{
+    
+ font-weight: 700;
+ font-size: 22px;
+ color: #161d2a;
+}
+.tech-skills-list{
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 171%;
+ color:#161d2a;
+ margin-top: -10px;
+ margin-left: -20px;
+}
+.soft-skills-sections{
+    padding-left: 40px;
+    margin-top: 40px;
+}
+.soft-skills-header{
+ font-weight: 700;
+ font-size: 22px;
+ color: #161d2a;
+}
+.soft-skills-list{
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 171%;
+ color: #161d2a;
+ margin-top: -10px;
+ margin-left: -20px;
+}
+.app-wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color:  #fff;
+
+}
+/* Main content Styles */
+.right-side-container{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 40px;
+    padding-bottom: 180px;
+}
+.about-me-profession{
+ font-weight: 700;
+ font-size: 14px;
+
+ 
+}
+.about-me-name{
+ font-weight: 700;
+ font-size: 45px;
+ margin-top: -10px;
+}
+.about-me-description{
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 171%;
+ color: #8c1ff1;
+ margin-top: -15px;
+}
+.project-section{
+ margin-top: 40px;
+ font-weight: 700;
+ font-size: 22px;
+ color: #000;
+ margin-right: 20px;
+ margin-top: -10px;
+}
+.projects-list{
+font-weight: 700;
+font-size: 14px;
+line-height: 171%;
+}
+.work-experience-section{
+    margin-top: 40px;
+}
+.work-experience-header{
+font-weight: 700;
+font-size: 22px;
+}
+.company-name{
+font-weight: 700;
+font-size: 16px;
+}
+.company-info{
+    color: #6096ff;
+    margin-left: 10px;
+}
+.company-time{
+font-weight: 400;
+font-size: 12px;
+margin-top: -10px;
+}
+.company-elements-list{
+font-weight: 400;
+font-size: 14px;
+line-height: 171%;
+margin-left: -10px;
+margin-top: -10px;
+}
+.company-container{
+    margin-top: -10px;
+}
+.education-class{
+font-weight: 700;
+font-size: 22px;
+margin-bottom: 9px;
+}
+.national-class{
+font-weight: 700;
+font-size: 16px;
+color: #6096ff;
+margin-top: -4px;
+}
+.management-class{
+font-weight: 700;
+font-size: 14px;
+margin-top: -9px;
+}
+.education-data{
+font-weight: 400;
+font-size: 12px;
+margin-top: -10px;
+}
+.goit-class{
+font-weight: 700;
+font-size: 16px;
+color: #6096ff;
+}
+.fullstack-class{
+font-weight: 700;
+font-size: 14px;
+margin-top: -10px;
+}
+.html-colour{
+    color: #6495ED;
+}
+.css-colour{
+    color: #40E0D0;
+}
+.Python-colour{
+   color: #00fa0c;
+}
+.certifications
+{
+    
+}
